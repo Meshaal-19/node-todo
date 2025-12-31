@@ -1,3 +1,15 @@
+## DevOps Overview
+
+This project demonstrates a complete DevOps workflow as part of a semester project.
+
+### Key DevOps Features
+- Open-source application forked and managed in a personal repository
+- Containerized Node.js application with MongoDB using Docker
+- Multi-service orchestration using Docker Compose
+- CI pipeline implemented using GitHub Actions
+- Branch-based Git workflow with feature branches and pull requests
+
+
 # Node Todo App
 
 A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
