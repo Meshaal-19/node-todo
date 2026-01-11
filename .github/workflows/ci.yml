@@ -1,3 +1,4 @@
+# GitHub Actions CI pipeline for build validation
 name: CI Pipeline
 
 on:
